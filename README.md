@@ -6,3 +6,6 @@ A collection of .py files explaining how to implement various gradient utilisati
 
 
 2 - gradient_multiple_dimensions - is an example of the gradient algorithm used in p dimensions. 
+
+
+3 - alternative_gradient_linear_regression - classic (but computational heavy) way to compute linear regression rather than using gradient.
